@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently a **Student**.
 
-- 🌱 I’m currently learning **API Testing & Malware Analysis**
+- 🌱 I’m currently learning **API Testing & Malware Analysis**.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 Check out  **[My Portfolio](https://maerih.netlify.app)**
+- 👨‍💻 Check out  **[My Portfolio](https://maerih.netlify.app).**
 
-- 📫 How to reach me **irough1234@protonmail.com**
+- 📫 How to reach me **irough1234@protonmail.com.**
 
 - ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
 
