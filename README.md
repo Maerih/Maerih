@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 Check out  **[My Portfolio](https://maerih.netlify.app).**
+- 👨‍💻 Check out  **[My Portfolio](https://maerihn.netlify.app/).**
 
 - 📫 How to reach me **irough1234@protonmail.com.**
 
