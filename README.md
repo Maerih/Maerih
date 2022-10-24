@@ -114,3 +114,7 @@
 <img src="https://img.shields.io/badge/Notion-ffffff.svg?logo=notion&logoColor=black"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
 </p>
+
+
+![Profile views](https://gpvc.arturio.dev/maerih)  
+
