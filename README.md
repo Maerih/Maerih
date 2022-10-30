@@ -54,6 +54,14 @@
 <hr>
 
 ### 💻 Techstack
+
+### 👉 Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Linux-f80125.svg?logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPNs-FF9900.svg?logo=network&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cryptography-0f5238.svg?logo=lock&logoColor=white"/>
+</p>
  
 ### 👉 Programming languages
 <p>
@@ -69,6 +77,9 @@
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ejs-%23E34F26.svg?style=flat&logo=ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Css-%23563D7C.svg?style=flat&logo=css&logoColor=white"/>
+
 </p>
 
 ### 👉 Frameworks
@@ -77,6 +88,8 @@
 <img src="https://img.shields.io/badge/Flask-00599C.svg?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-0f5238.svg?logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-00599C.svg?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nodejs-008000.svg?logo=nodejs&logoColor=white"/>
+
 </p>
 
 ### 👉 Cloud Hosting
@@ -96,6 +109,7 @@
 
 ### 👉 Web Servers
 <p>
+<img src="https://img.shields.io/badge/Ubuntu-336791.svg?logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-812878.svg?logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"/>
 </p>
@@ -105,6 +119,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/OracleSQL-f80125.svg?logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongodb-336791.svg?logo=mongo&logoColor=white"/>
 </p>
 
 ### 👉 Software & Tools
