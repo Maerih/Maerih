@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40maerih~%23+whoami;%E2%9C%93+Pythonist;%E2%9C%93+Web+Pentester;%E2%9C%93+Bug+Bounty+Hunter+;%E2%9C%93+Penetration+Tester+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 
 
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently a **Student**.
@@ -19,6 +20,10 @@
 - 📫 How to reach me **irough1234@protonmail.com.**
 
 - ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
+
+
+######  Currently Working on security system audit of a POS system.
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maerih" alt="Maerih" /></a> </p>
