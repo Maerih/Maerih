@@ -15,14 +15,13 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 Check out  **[My Portfolio](https://maerihn.netlify.app/).**
+- 👨‍💻 Check out  **[My Portfolio](https://google.com/).**
 
 - 📫 How to reach me **irough1234@protonmail.com.**
 
 - ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
 
 
-######  Currently Working on security system audit of a POS system.
 
 
 
