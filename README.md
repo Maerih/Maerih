@@ -3,7 +3,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Maerih</h1>
 <h3 align="center"></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40maerih~%23+whoami;%E2%9C%93+Pythonist;%E2%9C%93+Web+Pentester;%E2%9C%93+Bug+Bounty+Hunter+;%E2%9C%93+Penetration+Tester+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40maerih~%23+whoami;%E2%9C%93+Pythonist;%E2%9C%93+Web+Pentester;%E2%9C%93+Bug+Bounty+Hunter+;%E2%9C%93+Malware+Developer+;%E2%9C%93+Open+source+Toomaker+)](https://git.io/typing-svg)
 
 
 
