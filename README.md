@@ -9,15 +9,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a **Student**.
-
-- 🌱 I’m currently learning **API Testing & Malware Analysis**.
-
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
-
-- 👨‍💻 Check out  **[My Portfolio](https://google.com/).**
-
-- 📫 How to reach me **irough1234@protonmail.com.**
 
 - ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
 
@@ -27,7 +18,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maerih" alt="Maerih" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/roughmaeri" target="blank"><img src="https://img.shields.io/twitter/follow/roughmaeri?logo=twitter&style=for-the-badge" alt="roughmaeri" /></a> </p>
 
 
 
