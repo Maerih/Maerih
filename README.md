@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me
 
 
-- ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
+- ⚡ Bug Bounty Hunter **I'm currently a Security Researcher at SCIAT AFRICA**
 
 
 
